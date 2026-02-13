@@ -11,7 +11,7 @@ Google Colab
 
 # Program
 
-#ASK
+# ASK
 ```
 import numpy as np
 import matplotlib.pyplot as plt
